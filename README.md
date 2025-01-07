@@ -28,4 +28,4 @@ Testing was an integral part of the task to ensure that the calculator operated 
 Step 5: Finalizing and Documenting
 
 After successful testing and debugging, the application was finalized. Comments were added to the code to enhance readability and maintainability.
-**OUTPUT**:
+**OUTPUT**:Screenshot_20250107-173011_Chrome.png
